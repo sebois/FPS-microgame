@@ -5565,7 +5565,7 @@ PrefabInstance:
     - target: {fileID: 6094099607115738168, guid: e3fbc9f3bc757da41bd2b5a3e21de109,
         type: 3}
       propertyPath: m_Name
-      value: Inside_wall
+      value: Inside_Wall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5583,7 +5583,7 @@ PrefabInstance:
     - target: {fileID: 2151722485882222173, guid: c36727b8ef1625f448feb32734b56803,
         type: 3}
       propertyPath: m_Name
-      value: Small_Inside_wall
+      value: Small_Inside_Wall
       objectReference: {fileID: 0}
     - target: {fileID: 6604083322025440783, guid: c36727b8ef1625f448feb32734b56803,
         type: 3}
@@ -5593,7 +5593,7 @@ PrefabInstance:
     - target: {fileID: 6604083322025440783, guid: c36727b8ef1625f448feb32734b56803,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6604083322025440783, guid: c36727b8ef1625f448feb32734b56803,
         type: 3}
